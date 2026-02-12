@@ -55,7 +55,6 @@
 - 🤝  Contribute to Open Source  
 - 🤖  Learn AI & Machine Learning  
 
----
 
 ---
 
