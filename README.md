@@ -37,10 +37,14 @@
 
 ## 📊 GitHub Analytics
 
-## 📈 Activity Graph
+📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musab-18&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/musab-18/musab-18/blob/main/github-metrics.svg" alt="metrics"/>
 </p>
 
 <p align="center">
