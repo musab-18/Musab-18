@@ -63,9 +63,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
 
   <a href="mailto:musabiftikhar44@gmail.com">
     <img src="https://img.shields.io/badge/Email-musabiftikhar44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
