@@ -65,16 +65,40 @@
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:musabiftikhar44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-musabiftikhar44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <br><br>
+
+  <a href="https://www.instagram.com/muxab_1">
+    <img src="https://img.shields.io/badge/Instagram-muxab__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.snapchat.com/add/muxab_18">
+    <img src="https://img.shields.io/badge/Snapchat-muxab__18-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+
+  <a href="https://www.facebook.com/share/1AcXRdGprs/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-Musab%20Iftikhar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/923255442007">
+    <img src="https://img.shields.io/badge/WhatsApp-+923255442007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </p>
+
 
 ---
 
