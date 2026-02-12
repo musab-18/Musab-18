@@ -28,6 +28,8 @@
 + 🧠 Strengthening Data Structures & Algorithms daily
 + 🚀 Building scalable real-world projects
 + 🤝 Open to internships & collaborations
+
+---
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,vscode,linux&perline=7" /> </p>
 
