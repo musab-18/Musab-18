@@ -48,14 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 Add your best project here  
-- 🔹 Add another strong project  
-- 🔹 Add one more impressive project  
-
----
-
 ## 🎯 Current Goals
 
 - ✅ Master Data Structures & Algorithms  
