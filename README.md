@@ -38,11 +38,13 @@
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=musab-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab-18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=musab-18&theme=tokyonight&hide_border=true&background=0F2027" /> </p>
 
 ---
-🎯 Current Goals
-+🔥 Master Data Structures & Algorithms
-+🌍 Build 10+ Production-Level Projects
-+🤝 Contribute to Open Source
-+🤖 Dive Deep into Artificial Intelligence
+## 🎯 Current Goals
+
+•⁠  ⁠🔥  Master Data Structures & Algorithms  
+•⁠  ⁠🌍  Build 10+ Professional Projects  
+•⁠  ⁠🤝  Contribute to Open Source  
+•⁠  ⁠🤖  Learn AI & Machine Learning  
+
 
 ---
 🌐 Connect With Me
