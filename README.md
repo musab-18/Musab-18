@@ -39,10 +39,10 @@
 
 ---
 🎯 Current Goals
-🔥 Master Data Structures & Algorithms
-🌍 Build 10+ Production-Level Projects
-🤝 Contribute to Open Source
-🤖 Dive Deep into Artificial Intelligence
++🔥 Master Data Structures & Algorithms
++🌍 Build 10+ Production-Level Projects
++🤝 Contribute to Open Source
++🤖 Dive Deep into Artificial Intelligence
 
 ---
 🌐 Connect With Me
