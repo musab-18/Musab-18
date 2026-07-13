@@ -131,8 +131,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUXAB18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MUXAB18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -145,15 +145,10 @@
 
 ### 🏆 Trophy Case
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUXAB18&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-trophies.vercel.app/?username=MUXAB18&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- Optional: WakaTime weekly coding activity — needs a WakaTime account + GitHub Action to auto-update.
-Guide: https://github.com/athul/waka-readme
-## ⏱️ Weekly Coding Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--->
+<!-- Optional: WakaTime weekly coding activity needs a WakaTime account plus the waka-readme GitHub Action to auto-update. Guide: https://github.com/athul/waka-readme -->
 
 ---
 
