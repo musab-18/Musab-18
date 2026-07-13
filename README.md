@@ -91,9 +91,7 @@
 ---
 
 <!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://github.com/MUXAB18/MUXAB18/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 <!-- Bottom Wave -->
 <p align="center">
