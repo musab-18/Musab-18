@@ -110,22 +110,6 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-<a id="projects"></a>
-## 📌 Featured Projects
-
-<!-- Replace the placeholders below with your real repo names/links/descriptions -->
-
-| Project | Tech Used | Highlights |
-|---|---|---|
-| **[Project Name 1](https://github.com/MUXAB18/repo-1)** | React · Node.js · MongoDB | Short one-line description of what it does |
-| **[Project Name 2](https://github.com/MUXAB18/repo-2)** | Next.js · Tailwind · Firebase | Short one-line description of what it does |
-| **[Project Name 3](https://github.com/MUXAB18/repo-3)** | TypeScript · Express · PostgreSQL | Short one-line description of what it does |
-
-<p align="center"><sub>✏️ Swap these in for your actual repos — GitHub also lets you pin repos directly on your profile via <b>Customize your pins</b></sub></p>
-
----
-
 <!-- ================= STATS ================= -->
 <a id="stats"></a>
 ## 📊 GitHub Analytics
